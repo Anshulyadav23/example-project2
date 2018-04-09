@@ -5,3 +5,7 @@ scala
 ruby
 javascript
 rust
+C#
+Android
+Kotlin
+Angular
